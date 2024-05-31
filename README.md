@@ -1,2 +1,2 @@
-# Estudos JS
+# Estudos JavaScript
 Aprendizado básico de JavaScript
